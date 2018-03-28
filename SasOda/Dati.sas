@@ -13,3 +13,6 @@ proc means;
 run;
 proc print;
 run;
+PROC GCHART ;
+VBAR  x  / MIDPOINTS = 1 2 3 FRAME  TYPE=FREQ FREQ ;
+RUN; QUIT;
