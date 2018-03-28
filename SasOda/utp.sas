@@ -1,5 +1,5 @@
-/* Indagine customer satisfaction utenti edilizia privata comune di Padova   */
-/* Prova pratica finale corso Statistica Sociale                             */
+/* Indagine customer satisfaction utenti edilizia privata                    */
+/*                                                                           */
 /*                                                                           */
 /*                                                                           */
 /* Dati in Utenza01.txt                                                      */
